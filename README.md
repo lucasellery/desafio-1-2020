@@ -67,13 +67,13 @@ Você deverá cumprir os seguintes itens:
 
 ### 4.2 Resumo das tarefas
 
-1. Instanciar o IBM Watson Visual Recognition na IBM Cloud;
-2. Instanciar o Watson Studio (Cloud Pak for Data as a Service) na IBM Cloud;
-3. Instanciar o Cloud Object Storage na IBM Cloud;
-4. Buscar por imagens que representam as classes especificadas: `lagarta`, `percevejo_marrom`, `percevejo_pequeno` e `percevejo_verde`;
-5. Treinar o modelo;
-6. Subir a aplicação de submissão;
-7. Acessar a aplicação de submissão e submeter sua solução.
+1. Instanciar o IBM Watson Visual Recognition na IBM Cloud [x]
+2. Instanciar o Watson Studio (Cloud Pak for Data as a Service) na IBM Cloud [x]
+3. Instanciar o Cloud Object Storage na IBM Cloud [x]
+4. Buscar por imagens que representam as classes especificadas: `lagarta`, `percevejo_marrom`, `percevejo_pequeno` e `percevejo_verde`[]
+5. Treinar o modelo []
+6. Subir a aplicação de submissão []
+7. Acessar a aplicação de submissão e submeter sua solução []
 
 ### 4.3 Desenvolvimento
 
